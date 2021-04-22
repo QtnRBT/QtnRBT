@@ -1,5 +1,7 @@
 ### Hi there 👋
-### ⚙️ I'm an Epitech Digital student !
+### ⚙️ I'm a future Epitech Digital student !
+### 🏎️ I am a big fan of Formula One.
+### 🖥️ I like to work on some side projects on my free time.
 
 <!--
 **QtnRBT/QtnRBT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
