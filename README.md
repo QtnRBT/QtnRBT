@@ -1,5 +1,5 @@
 ### Hi there 👋
-### ⚙️ I'm a future Epitech Digital student !
+### ⚙️ I'm an Epitech Digital student !
 ### 🏎️ I am a big fan of Formula One.
 ### 🖥️ I like to work on some side projects on my free time.
 
